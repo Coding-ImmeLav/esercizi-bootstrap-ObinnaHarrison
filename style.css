@@ -1,3 +1,10 @@
 .sfondoMenu {
     background-color: purple;
 }
+.btn-primary{
+    background-color: grey ; /* Cambia il colore di sfondo */
+    border-color: grey ; /* Cambia il colore del bordo */
+}
+
+
+    
